@@ -1,6 +1,6 @@
 /* Start Global Rules */
 :root {
-  --main-color: #2196f3;
+  --main-color: #145b94;
   --main-color-alt: #1787e0;
   --section-background: #ececec;
   --text-color: #565353;
@@ -1768,4 +1768,5 @@ footer .copyright {
   padding: 20px;
 }
 /* End Footer */
+
 
