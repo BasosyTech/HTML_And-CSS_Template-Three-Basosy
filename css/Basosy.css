@@ -1,6 +1,6 @@
 /* Start Global Rules */
 :root {
-  --main-color: #145b94;
+  --main-color: #1b79c4;
   --main-color-alt: #1787e0;
   --section-background: #ececec;
   --text-color: #565353;
@@ -702,7 +702,7 @@ header .container .main-nav .mega-menu .links li > a:hover::before {
   background-color: rgb(0, 150, 136);
 }
 .features .container .passion a {
-  color: rgb(3, 169, 244);
+  color: rgb(13 145 204);
   border-color: rgb(3, 169, 244);
 }
 .features .container .passion a::before {
@@ -1768,5 +1768,6 @@ footer .copyright {
   padding: 20px;
 }
 /* End Footer */
+
 
 
