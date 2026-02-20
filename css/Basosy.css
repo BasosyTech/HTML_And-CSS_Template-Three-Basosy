@@ -1459,7 +1459,7 @@ header .container .main-nav .mega-menu .links li > a:hover::before {
 /* Start Stats */
 .stats {
   padding: var(--main-padding) 0px;
-  background-image: url(../imgs/stats.jpg);
+  background-image: url(../imgs/stats.webp);
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -1768,3 +1768,4 @@ footer .copyright {
   padding: 20px;
 }
 /* End Footer */
+
