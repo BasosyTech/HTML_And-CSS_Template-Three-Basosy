@@ -239,7 +239,7 @@ header .container .main-nav {
   header .container nav #menu-toggle:checked ~ .wrapper {
     width: 70%;
   }
-  header .container nav #menu-toggle:checked ~ .burge-icon{
+  header .container nav #menu-toggle:checked ~ .burge-icon {
     position: fixed;
     right: 15px;
     top: 35px;
@@ -1000,6 +1000,7 @@ header .container .main-nav .mega-menu .links li > a:hover::before {
   height: 100%;
   left: 0px;
   top: 0px;
+  transition: 1s;
 }
 /* End our-skills */
 /* Start how-it-work */
@@ -1768,6 +1769,3 @@ footer .copyright {
   padding: 20px;
 }
 /* End Footer */
-
-
-
